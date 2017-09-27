@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4226803-e5e4-477d-aa4d-56d82f2a7b58" name="Default" comment="babcia">
+    <list default="true" id="c4226803-e5e4-477d-aa4d-56d82f2a7b58" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Michał Taran/yolo.txt" afterPath="$PROJECT_DIR$/Michał Taran/yolo.txt" />
     </list>
@@ -27,8 +27,8 @@
       <file leaf-file-name="yolo.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Michał Taran/yolo.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+            <state relative-caret-position="68">
+              <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -248,7 +248,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506502455906</updated>
-      <workItem from="1506502457168" duration="1544000" />
+      <workItem from="1506502457168" duration="1941000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1506502492967</created>
@@ -278,11 +278,18 @@
       <option name="project" value="LOCAL" />
       <updated>1506503388745</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ważna zmiana">
+      <created>1506504336530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1506504336530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1544000" />
+    <option name="totallyTimeSpent" value="1941000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -327,7 +334,9 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="siema gitara" />
     <MESSAGE value="babcia" />
-    <option name="LAST_COMMIT_MESSAGE" value="babcia" />
+    <MESSAGE value="ważna zmiana" />
+    <MESSAGE value="naprawa confiktow" />
+    <option name="LAST_COMMIT_MESSAGE" value="naprawa confiktow" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -344,8 +353,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Michał Taran/yolo.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="false" selection-start-line="0" selection-start-column="30" selection-end-line="0" selection-end-column="30" />
+        <state relative-caret-position="68">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding />
         </state>
       </provider>
