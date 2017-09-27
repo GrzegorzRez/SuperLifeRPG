@@ -1,5 +1,6 @@
-<<<<<<< HEAD
-kupa
-=======
+﻿kupa
 siema gitara
->>>>>>> 3660127d605862e8056587bb0f412fd38b9f38aa
+
+co� do cioci i babci
+
+siema gitara
